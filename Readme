@@ -1,0 +1,8 @@
+#To install dependencies run
+
+npm install
+
+
+# To run the application run
+
+npm run dev
